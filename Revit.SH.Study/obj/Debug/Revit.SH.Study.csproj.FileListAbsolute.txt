@@ -1,0 +1,6 @@
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\bin\Debug\Revit.SH.Study.dll
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\bin\Debug\Revit.SH.Study.pdb
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.csproj.AssemblyReference.cache
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.dll
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.pdb

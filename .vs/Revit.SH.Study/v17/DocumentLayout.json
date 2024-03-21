@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Selection.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\Selection.cs",
+              "RelativeDocumentMoniker": "Revit.SH.Study\\Selection.cs",
+              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\Selection.cs",
+              "RelativeToolTip": "Revit.SH.Study\\Selection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:39:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\Main.cs",
+              "RelativeDocumentMoniker": "Revit.SH.Study\\Main.cs",
+              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\Main.cs",
+              "RelativeToolTip": "Revit.SH.Study\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:39:51.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
