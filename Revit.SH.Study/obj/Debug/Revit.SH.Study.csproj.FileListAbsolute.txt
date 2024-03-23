@@ -4,3 +4,8 @@ C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.c
 C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.csproj.CoreCompileInputs.cache
 C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.dll
 C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.pdb
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\SimpleForm.g.cs
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study_MarkupCompile.cache
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study_MarkupCompile.lref
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\SimpleForm.baml
+C:\Users\silvi\Projects\Revit.SH.Study\Revit.SH.Study\obj\Debug\Revit.SH.Study.g.resources
