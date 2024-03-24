@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\libs\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|C:\\Users\\silvi\\Projects\\Revit.SH.Study\\revit.sh.study\\libs\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Selection.cs",
-              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\Selection.cs",
-              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\Selection.cs",
-              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\Selection.cs",
-              "RelativeToolTip": "Revit.SH.Study\\libs\\Selection.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA1wDoAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Parameters.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\Parameters.cs",
+              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\Parameters.cs",
+              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\Parameters.cs",
+              "RelativeToolTip": "Revit.SH.Study\\libs\\Parameters.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwC4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T22:42:20.921Z"
+              "WhenOpened": "2024-03-24T19:52:37.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\Main.cs",
               "RelativeDocumentMoniker": "Revit.SH.Study\\Main.cs",
               "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\Main.cs",
               "RelativeToolTip": "Revit.SH.Study\\Main.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T23:39:51.397Z",
+              "WhenOpened": "2024-03-24T18:45:13.13Z",
               "EditorCaption": ""
             }
           ]
