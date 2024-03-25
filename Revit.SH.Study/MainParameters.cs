@@ -4,31 +4,27 @@ using System.Linq;
 using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using Autodesk.Revit.UI.Selection;
 using Revit.SH.Study;
-using Revit.SH.Study.libs;
 
 namespace LessonFile
 {
     [Transaction(TransactionMode.Manual)]
     [Regeneration(RegenerationOption.Manual)]
-    public class Main : IExternalCommand
+    public class MainParameters : IExternalCommand
     {
-        public bool IsWall(Element element)
-        {
-            return element is Wall;
-        }
         public Autodesk.Revit.UI.Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             UIApplication uiapp = commandData.Application;
             UIDocument uidoc = uiapp.ActiveUIDocument;
             Document doc = uidoc.Document;
 
-            var references = uidoc.Selection.PickObjects(
-                ObjectType.PointOnElement, new ElementSelectionFilter(
-                    e=>e is Wall,
-                    r => r.ElementReferenceType == ElementReferenceType.REFERENCE_TYPE_LINEAR));
+            var parameters = new Revit.SH.Study.libs.Parameters();
+            parameters.ShowCommentsInSelection(uidoc, doc);
 
+
+            parameters.ChangeComments(uidoc, doc, "New Value");
+
+            parameters.GetBuiltInCategoryById(BuiltInCategory.OST_Walls);
 
             return Result.Succeeded;
         }
