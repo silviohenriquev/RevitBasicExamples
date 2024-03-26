@@ -24,11 +24,20 @@ namespace LessonFile
             UIDocument uidoc = uiapp.ActiveUIDocument;
             Document doc = uidoc.Document;
 
-            var references = uidoc.Selection.PickObjects(
-                ObjectType.PointOnElement, new ElementSelectionFilter(
-                    e=>e is Wall,
-                    r => r.ElementReferenceType == ElementReferenceType.REFERENCE_TYPE_LINEAR));
+            var selectedElements = uidoc.PickElements(
+                e => e is Wall, new BothDocumentOption());
 
+            TaskDialog.Show("Message", selectedElements.Count.ToString());
+
+            //var references = uidoc.Selection.PickObjects(
+            //    ObjectType.LinkedElement, new ElementSelectionFilter(
+            //        e=>e is Wall,
+            //        r => r.ElementReferenceType == ElementReferenceType.REFERENCE_TYPE_LINEAR));
+            
+            //var references = uidoc.Selection.PickObjects(
+            //    ObjectType.LinkedElement, new LinkableSelectionFiler(
+            //        doc,
+            //        e=>e is Wall));
 
             return Result.Succeeded;
         }
