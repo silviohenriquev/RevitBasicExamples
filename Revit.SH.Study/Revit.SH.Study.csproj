@@ -53,7 +53,16 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="libs\BaseSelectionFilter.cs" />
+    <Compile Include="libs\BothDocumentOption.cs" />
+    <Compile Include="libs\CurrentDocumentOption.cs" />
     <Compile Include="libs\ElementSelectionFilter.cs" />
+    <Compile Include="libs\IPickElementsOption.cs" />
+    <Compile Include="libs\LinkableSelectionFiler.cs" />
+    <Compile Include="libs\LinkDocumentOption.cs" />
+    <Compile Include="libs\PickElementsOptionFactory.cs" />
+    <Compile Include="libs\SelectionExtensions.cs" />
+    <Compile Include="libs\SelectionFilterFactory.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="libs\Parameters.cs" />
     <Compile Include="MainSelection.cs" />

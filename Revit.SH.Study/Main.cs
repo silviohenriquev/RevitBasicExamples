@@ -25,7 +25,8 @@ namespace LessonFile
             Document doc = uidoc.Document;
 
             var selectedElements = uidoc.PickElements(
-                e => e is Wall, new BothDocumentOption());
+                e => e is FamilyInstance,
+                PickElementsOptionFactory.CreateBothDocumentOption());
 
             TaskDialog.Show("Message", selectedElements.Count.ToString());
 
