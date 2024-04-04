@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|C:\\Users\\silvi\\Projects\\Revit.SH.Study\\revit.sh.study\\libs\\elementselectionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\elementselectionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\libs\\curveextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\curveextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\libs\\bothdocumentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\bothdocumentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\libs\\xyzextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\xyzextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\libs\\selectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\selectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|c:\\users\\silvi\\projects\\revit.sh.study\\revit.sh.study\\libs\\currentdocumentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBACFBC0-413C-4CB4-973A-C23B4932E5E9}|Revit.SH.Study\\Revit.SH.Study.csproj|solutionrelative:revit.sh.study\\libs\\currentdocumentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurveExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\CurveExtensions.cs",
+              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\CurveExtensions.cs",
+              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\CurveExtensions.cs",
+              "RelativeToolTip": "Revit.SH.Study\\libs\\CurveExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:53:52.906Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,49 +49,35 @@
               "RelativeDocumentMoniker": "Revit.SH.Study\\Main.cs",
               "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\Main.cs",
               "RelativeToolTip": "Revit.SH.Study\\Main.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBwAAABCAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T18:45:13.13Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ElementSelectionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\ElementSelectionFilter.cs",
-              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\ElementSelectionFilter.cs",
-              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\ElementSelectionFilter.cs",
-              "RelativeToolTip": "Revit.SH.Study\\libs\\ElementSelectionFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T00:47:10.423Z",
+              "WhenOpened": "2024-04-03T23:46:41.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BothDocumentOption.cs",
-              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\BothDocumentOption.cs",
-              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\BothDocumentOption.cs",
-              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\BothDocumentOption.cs",
-              "RelativeToolTip": "Revit.SH.Study\\libs\\BothDocumentOption.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABtAAAA",
+              "Title": "XYZExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\XYZExtensions.cs",
+              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\XYZExtensions.cs",
+              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\XYZExtensions.cs",
+              "RelativeToolTip": "Revit.SH.Study\\libs\\XYZExtensions.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwFkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T02:21:37.385Z",
+              "WhenOpened": "2024-04-03T23:35:21.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SelectionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\SelectionExtensions.cs",
-              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\SelectionExtensions.cs",
-              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\SelectionExtensions.cs",
-              "RelativeToolTip": "Revit.SH.Study\\libs\\SelectionExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAyAAAA",
+              "Title": "CurrentDocumentOption.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\CurrentDocumentOption.cs",
+              "RelativeDocumentMoniker": "Revit.SH.Study\\libs\\CurrentDocumentOption.cs",
+              "ToolTip": "C:\\Users\\silvi\\Projects\\Revit.SH.Study\\Revit.SH.Study\\libs\\CurrentDocumentOption.cs",
+              "RelativeToolTip": "Revit.SH.Study\\libs\\CurrentDocumentOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T02:07:14.347Z",
+              "WhenOpened": "2024-04-03T23:56:29.894Z",
               "EditorCaption": ""
             }
           ]
